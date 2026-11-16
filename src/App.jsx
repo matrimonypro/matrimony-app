@@ -1,4 +1,4 @@
-8494.jpgimport React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { 
   Heart, Shield, Search, MessageCircle, User, MapPin, 
   Phone, Lock, CheckCircle, AlertTriangle, Send, Sparkles, 
