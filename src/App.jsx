@@ -1,9 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { 
-  Heart, Shield, Search, MessageCircle, User, MapPin, 
-  Phone, Lock, CheckCircle, AlertTriangle, Send, Sparkles, 
-  Filter, Settings, LogOut, Camera, ChevronRight, Star, ArrowLeft
+  Heart, Shield, Search, MessageCircle, 
+  Phone, Lock, CheckCircle, AlertTriangle, 
+  Filter, Settings, LogOut, Camera, ChevronRight 
 } from 'lucide-react';
+
+
 
 export default function App() {
   const [currentTab, setCurrentTab] = useState('home');
